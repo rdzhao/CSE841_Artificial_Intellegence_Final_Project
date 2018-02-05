@@ -1,0 +1,7 @@
+﻿  Sudoku.cpp
+c:\users\rundong zhao\desktop\project\sudokusolver\sudokusolver\sudokusolver\sudoku.cpp(81): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  SudokuSolver.vcxproj -> C:\Users\Rundong Zhao\Desktop\Project\SudokuSolver\SudokuSolver\Debug\SudokuSolver.exe
+  SudokuSolver.vcxproj -> C:\Users\Rundong Zhao\Desktop\Project\SudokuSolver\SudokuSolver\Debug\SudokuSolver.pdb (Partial PDB)
