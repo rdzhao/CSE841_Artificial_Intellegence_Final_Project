@@ -3,7 +3,8 @@
 This project applies Satisfiability Problem Encoding for solving sudoku problems. 
 This method is extremely fast for even evil sudoku problems.
 
-The normal backtrack based method may take forever to run. However, the SAT encoding will solve them in less than 0.1 seconds.
+The normal backtrack based method may take forever to run. 
+However, the SAT encoding will solve them in a blink of an eye.
 
 For more details, see project report.
 
